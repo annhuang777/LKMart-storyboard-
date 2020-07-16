@@ -24,6 +24,7 @@
 		B169AE1924BE06A200C5E9C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B169AE1C24BE06A200C5E9C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B169AE1E24BE06A200C5E9C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B169AE2424BEBE3C00C5E9C8 /* vagnotie.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = vagnotie.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			children = (
 				B169AE1024BE069B00C5E9C8 /* AppDelegate.swift */,
 				B169AE1224BE069B00C5E9C8 /* SceneDelegate.swift */,
+				B169AE2424BEBE3C00C5E9C8 /* vagnotie.ttf */,
 				B169AE1424BE069B00C5E9C8 /* ViewController.swift */,
 				B169AE1624BE069B00C5E9C8 /* Main.storyboard */,
 				B169AE1924BE06A200C5E9C8 /* Assets.xcassets */,
